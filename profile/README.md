@@ -1,8 +1,8 @@
 # Ligma Studios
 
 <p align="center">
-  <img src="/assets/GZsxB25XMAQg-sA.jpg" alt="Ligma Studios" width="100px" style="vertical-align:middle;">
-  <span style="font-size:1.17em; vertical-align:middle;">bilions must go</span>
+  <img src="/assets/for_honored_human.png" alt="Ligma Studios" width="100px" style="vertical-align:middle;">
+  <!-- <span style="font-size:1.17em; vertical-align:middle;">bilions must go</span> -->
 </p>
 
 
